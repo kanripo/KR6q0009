@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:22:56.787964
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:45
 #+TITLE: 嘉泰普燈錄總目錄
 #+PROPERTY: CBETA_ID X79n1558
 #+PROPERTY: ID KR6q0009
